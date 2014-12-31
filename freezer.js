@@ -3,6 +3,7 @@
  * A lightweight UI Helper
  * ===========================================
  * 2013 Kabir Baidhya <kabeer182010@gmail.com>
+ * https://github.com/kabir-baidhya/FreezerJS
  */
 var Freezer = (function() {
 
